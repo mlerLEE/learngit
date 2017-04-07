@@ -14,4 +14,5 @@
 
 @property (strong,nonatomic) HFR371Res * hfr371res; // 在进入此页的时候传入，
 @property (strong,nonatomic) UIViewController * backViewController;
+//try to change
 @end
